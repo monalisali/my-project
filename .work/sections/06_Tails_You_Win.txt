@@ -1,0 +1,328 @@
+"I've been banging away at this thing for 30 years. I think the
+simple math is, some projects work and some don't. There's no
+reason to belabor either one. Just get on to the next."
+ 
+-Brad Pitt accepting a Screen Actors Guild Award
+ 
+Heinz Berggruen fled Nazi Germany in 1936. He settled in
+America, where he studied literature at U.C. Berkeley.
+By most accounts he did not show particular promise in his
+youth. But by the 1990s Berggruen was, by any measure, one
+of the most successful art dealers of all time.
+In 2000 Berggruen sold part of his massive collection of
+Picassos, Braques, Klees, and Matisses to the German
+government for more than 100 million euros. It was such a
+bargain that the Germans effectively considered it a donation.
+The private market value of the collection was well over a $1
+billion.
+That one person can collect huge quantities of masterpieces is
+astounding. Art is as subjective as it gets. How could anyone
+have foreseen, early in life, what were to become the most
+sought-after works of the century?
+You could say "skill."
+You could say "luck."
+The investment firm Horizon Research has a third explanation.
+And it's very relevant to investors.
+"The great investors bought vast quantities of art," the firm
+writes.¹⁹ "A subset of the collections turned out to be great
+investments, and they were held for a sufficiently long period of
+
+time to allow the portfolio return to converge upon the return of
+the best elements in the portfolio. That's all that happens."
+The great art dealers operated like index funds. They bought
+everything they could. And they bought it in portfolios, not
+individual pieces they happened to like. Then they sat and
+waited for a few winners to emerge.
+That's all that happens.
+Perhaps 99% of the works someone like Berggruen acquired in
+his life turned out to be of little value. But that doesn't
+particularly matter if the other 1% turn out to be the work of
+someone like Picasso. Berggruen could be wrong most of the
+time and still end up stupendously right.
+A lot of things in business and investing work this way. Long
+tails-the farthest ends of a distribution of outcomes-have
+tremendous influence in finance, where a small number of
+events can account for the majority of outcomes.
+That can be hard to deal with, even if you understand the math.
+It is not intuitive that an investor can be wrong half the time
+and still make a fortune. It means we underestimate how
+normal it is for a lot of things to fail. Which causes us to
+overreact when they do.
+ 
+ 
+Steamboat Willie put Walt Disney on the map as an animator.
+Business success was another story. Disney's first studio went
+bankrupt. His films were monstrously expensive to produce,
+and financed at outrageous terms. By the mid-1930s Disney
+had produced more than 400 cartoons. Most of them were
+short, most of them were beloved by viewers, and most of them
+lost a fortune.
+Snow White and the Seven Dwarfs changed everything.
+
+The $8 million it earned in the first six months of 1938 was an
+order of magnitude higher than anything the company earned
+previously. It transformed Disney Studios. All company debts
+were paid off. Key employees got retention bonuses. The
+company purchased a new state-of-the-art studio in Burbank,
+where it remains today. An Oscar turned Walt from famous to
+full-blown celebrity. By 1938 he had produced several hundred
+hours of film. But in business terms, the 83 minutes of Snow
+White were all that mattered.
+Anything that is huge, profitable, famous, or influential is the
+result of a tail event-an outlying one-in-thousands or millions
+event. And most of our attention goes to things that are huge,
+profitable, famous, or influential. When most of what we pay
+attention to is the result of a tail, it's easy to underestimate
+how rare and powerful they are.
+Some tail-driven industries are obvious. Take venture capital. If
+a VC makes 50 investments they likely expect half of them to
+fail, 10 to do pretty well, and one or two to be bonanzas that
+drive 100% of the fund's returns. Investment firm Correlation
+Ventures once crunched the numbers.²⁰ Out of more than
+21,000 venture financings from 2004 to 2014:
+65% lost money.
+Two and a half percent of investments made 10x-20x.
+One percent made more than a 20x return.
+Half a percent-about 100 companies out of 21,000-earned
+50x or more. That's where the majority of the industry's returns
+come from.
+This, you might think, is what makes venture capital so risky.
+And everyone investing in VC knows it's risky. Most startups fail
+and the world is only kind enough to allow a few mega
+successes.
+
+If you want safer, predictable, and more stable returns, you
+invest in large public companies.
+Or so you might think.
+Remember, tails drive everything.
+The distribution of success among large public stocks over time
+is not much different than it is in venture capital.
+Most public companies are duds, a few do well, and a handful
+become extraordinary winners that account for the majority of
+the stock market's returns.
+J.P. Morgan Asset Management once published the distribution
+of returns for the Russell 3000 Index-a big, broad, collection of
+public companies-since 1980.²¹
+Forty percent of all Russell 3000 stock components lost at least
+70% of their value and never recovered over this period.
+Effectively all of the index's overall returns came from 7% of
+component companies that outperformed by at least two
+standard deviations.
+That's the kind of thing you'd expect from venture capital. But
+it's what happened inside a boring, diversified index.
+This thumping of most public companies spares no industry.
+More than half of all public technology and telecom companies
+lose most of their value and never recover. Even among public
+utilities the failure rate is more than 1 in 10:
+ 
+
+ 
+The interesting thing here is that you have to have achieved a
+certain level of success to become a public company and a
+member of the Russell 3000. These are established
+corporations, not fly-by-night startups. Even still, most have
+lifespans measured in years, not generations.
+Take an example one of these companies: Carolco, a former
+member of the Russell 3000 Index.
+It produced some of the biggest films of the 1980s and 1990s,
+including the first three Rambo films, Terminator 2, Basic
+Instinct, and Total Recall.
+Carolco went public in 1987. It was a huge success, churning
+out hit after hit. It did half a billion dollars in revenue in 1991,
+
+commanding a market cap of $400 million-big money back
+then, especially for a film studio.
+And then it failed.
+The blockbusters stopped, a few big-budget projects flopped,
+and by the mid-1990s Carolco was history. It went bankrupt in
+1996. Stock goes to zero, have a nice day. A catastrophic loss.
+And one that 4 in 10 public companies experience over time.
+Carolco's story is not worth telling because it's unique, but
+because it's common.
+Here's the most important part of this story: The Russell 3000
+has increased more than 73-fold since 1980. That is a
+spectacular return. That is success.
+Forty percent of the companies in the index were effectively
+failures. But the 7% of components that performed extremely
+well were more than enough to offset the duds. Just like Heinz
+Berggruen, but with Microsoft and Walmart instead of Picasso
+and Matisse.
+Not only do a few companies account for most of the market's
+return, but within those companies are even more tail events.
+In 2018, Amazon drove 6% of the S&P 500's returns. And
+Amazon's growth is almost entirely due to Prime and Amazon
+Web Services, which itself are tail events in a company that has
+experimented with hundreds of products, from the Fire Phone
+to travel agencies.
+Apple was responsible for almost 7% of the index's returns in
+2018. And it is driven overwhelmingly by the iPhone, which in
+the world of tech products is as tail-y as tails get.
+And who's working at these companies? Google's hiring
+acceptance rate is 0.2%.²² Facebook's is 0.1%.²³ Apple's is
+about 2%.²⁴ So the people working on these tail projects that
+drive tail returns have tail careers.
+
+The idea that a few things account for most results is not just
+true for companies in your investment portfolio. It's also an
+important part of your own behavior as an investor.
+Napoleon's definition of a military genius was, "The man who
+can do the average thing when all those around him are going
+crazy."
+It's the same in investing.
+Most financial advice is about today. What should you do right
+now, and what stocks look like good buys today?
+But most of the time today is not that important. Over the
+course of your lifetime as an investor the decisions that you
+make today or tomorrow or next week will not matter nearly as
+much as what you do during the small number of days-likely
+1% of the time or less-when everyone else around you is going
+crazy.
+Consider what would happen if you saved $1 every month from
+1900 to 2019.
+You could invest that $1 into the U.S. stock market every
+month, rain or shine. It doesn't matter if economists are
+screaming about a looming recession or new bear market. You
+just keep investing. Let's call an investor who does this Sue.
+But maybe investing during a recession is too scary. So perhaps
+you invest your $1 in the stock market when the economy is
+not in a recession, sell everything when it's in a recession and
+save your monthly dollar in cash, and invest everything back
+into the stock market when the recession ends. We'll call this
+investor Jim.
+Or perhaps it takes a few months for a recession to scare you
+out, and then it takes a while to regain confidence before you
+get back in the market. You invest $1 in stocks when there's no
+
+recession, sell six months after a recession begins, and invest
+back in six months after a recession ends. We'll call you Tom.
+How much money would these three investors end up with over
+time?
+Sue ends up with $435,551.
+Jim has $257,386.
+Tom $234,476.
+Sue wins by a mile.
+There were 1,428 months between 1900 and 2019. Just over
+300 of them were during a recession. So by keeping her cool
+during just the 22% of the time the economy was in or near a
+recession, Sue ends up with almost three-quarters more money
+than Jim or Tom.
+To give a more recent example: How you behaved as an
+investor during a few months in late 2008 and early 2009 will
+likely have more impact on your lifetime returns than
+everything you did from 2000 to 2008.
+There is the old pilot quip that their jobs are "hours and hours
+of boredom punctuated by moments of sheer terror." It's the
+same in investing. Your success as an investor will be
+determined by how you respond to punctuated moments of
+terror, not the years spent on cruise control.
+A good definition of an investing genius is the man or woman
+who can do the average thing when all those around them are
+going crazy.
+Tails drive everything.
+ 
+ 
+
+When you accept that tails drive everything in business,
+investing, and finance you realize that it's normal for lots of
+things to go wrong, break, fail, and fall.
+If you're a good stock picker you'll be right maybe half the time.
+If you're a good business leader maybe half of your product and
+strategy ideas will work.
+If you're a good investor most years will be just OK, and plenty
+will be bad.
+If you're a good worker you'll find the right company in the
+right field after several attempts and trials.
+And that's if you're good.
+Peter Lynch is one of the best investors of our time. "If you're
+terrific in this business, you're right six times out of 10," he
+once said.
+There are fields where you must be perfect every time. Flying a
+plane, for example. Then there are fields where you want to be
+at least pretty good nearly all the time. A restaurant chef, let's
+say.
+Investing, business, and finance are just not like these fields.
+Something I've learned from both investors and entrepreneurs
+is that no one makes good decisions all the time. The most
+impressive people are packed full of horrendous ideas that are
+often acted upon.
+Take Amazon. It's not intuitive to think a failed product launch
+at a major company would be normal and fine. Intuitively,
+you'd think the CEO should apologize to shareholders. But CEO
+Jeff Bezos said shortly after the disastrous launch of the
+company's Fire Phone:
+
+ 
+If you think that's a big failure, we're working on much bigger
+failures right now. I am not kidding. Some of them are going to
+make the Fire Phone look like a tiny little blip.
+ 
+It's OK for Amazon to lose a lot of money on the Fire Phone
+because it will be offset by something like Amazon Web
+Services that earns tens of billions of dollars. Tails to the rescue.
+Netflix CEO Reed Hastings once announced his company was
+canceling several big-budget productions. He responded:
+ 
+Our hit ratio is way too high right now. I'm always pushing the
+content team. We have to take more risk. You have to try more
+crazy things, because we should have a higher cancel rate
+overall.
+ 
+These are not delusions or failures of responsibility. They are a
+smart acknowledgement of how tails drive success. For every
+Amazon Prime or Orange is The New Black you know, with
+certainty, that you'll have some duds.
+Part of why this isn't intuitive is because in most fields we only
+see the finished product, not the losses incurred that led to the
+tail-success product.
+The Chris Rock I see on TV is hilarious, flawless. The Chris Rock
+that performs in dozens of small clubs each year is just OK.
+That is by design. No comedic genius is smart enough to
+preemptively know what jokes will land well. Every big
+comedian tests their material in small clubs before using it in
+big venues. Rock was once asked if he missed small clubs. He
+responded:
+
+ 
+When I start a tour, it's not like I start out in arenas. Before this
+last tour I performed in this place in New Brunswick called the
+Stress Factory. I did about 40 or 50 shows getting ready for the
+tour.
+ 
+One newspaper profiled these small-club sessions. It described
+Rock thumbing through pages of notes and fumbling with
+material. "I'm going to have to cut some of these jokes," he
+says mid-skit. The good jokes I see on Netflix are the tails that
+stuck out of a universe of hundreds of attempts.
+A similar thing happens in investing. It's easy to find Warren
+Buffett's net worth, or his average annual returns. Or even his
+best, most notable investments. They're right there in the open,
+and they're what people talk about.
+It's much harder to piece together every investment he's made
+over his career. No one talks about the dud picks, the ugly
+businesses, the poor acquisitions. But they're a big part of
+Buffett's story. They are the other side of tail-driven returns.
+At the Berkshire Hathaway shareholder meeting in 2013
+Warren Buffett said he's owned 400 to 500 stocks during his
+life and made most of his money on 10 of them. Charlie Munger
+followed up: "If you remove just a few of Berkshire's top
+investments, its long-term track record is pretty average."
+When we pay special attention to a role model's successes we
+overlook that their gains came from a small percent of their
+actions. That makes our own failures, losses, and setbacks feel
+like we're doing something wrong. But it's possible we are
+wrong, or just sort of right, just as often as the masters are.
+They may have been more right when they were right, but they
+could have been wrong just as often as you.
+
+"It's not whether you're right or wrong that's important,"
+George Soros once said, "but how much money you make when
+you're right and how much you lose when you're wrong." You
+can be wrong half the time and still make a fortune.
+ 
+ 
+There are 100 billion planets in our galaxy and only one, as far
+as we know, with intelligent life.
+The fact that you are reading this book is the result of the
+longest tail you can imagine.
+That's something to be happy about. Next, let's look at how
+money can make you even happier.
